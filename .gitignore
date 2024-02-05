@@ -1,0 +1,5 @@
+#Ignore lib folder for redistribution
+lib/*
+
+#exception
+#!path/.file
