@@ -4,3 +4,4 @@ seaborn==0.13.2
 scikit-learn==1.4.0
 tensorflow==2.15.0
 netron==7.4.1
+image_dataset_loader==0.0.0
